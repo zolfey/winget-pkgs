@@ -1,0 +1,8 @@
+Id: EscapeFromTarkov
+Version: 1.0.0
+Channel: stable
+License: MIT
+Url: https://prod.escapefromtarkov.com/launcher/download
+DownloadUrl: https://prod.escapefromtarkov.com/launcher/download
+SHA256: b58cd574f1f9e595af8137e9df3d273c13d5e0b847e739a47f48f1a9e8cc93c8
+InstallerType: exe
